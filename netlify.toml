@@ -1,0 +1,18 @@
+# Netlify build configuration
+#
+# The build command and publish directory below match the official Netlify
+# guide for TanStack Start. The Netlify Vite plugin (configured in vite.config.ts)
+# also emits the server handler as a Netlify Function automatically, so SSR
+# works out of the box once this site is deployed.
+
+[build]
+  command = "npm run build"
+  publish = "dist/client"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[dev]
+  command = "npm run dev"
+  port = 3000
+  targetPort = 5173
