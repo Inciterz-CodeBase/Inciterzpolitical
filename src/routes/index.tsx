@@ -14,13 +14,13 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "INCITERZ — Smart Strategies for Winning Political Campaigns" },
+      { title: "INCITERZ is a Smart Strategies for Winning Political Campaigns" },
       {
         name: "description",
         content:
           "INCITERZ is a modern political consulting and campaign management firm. Data-driven strategy, war room analytics, ground operations and digital outreach.",
       },
-      { property: "og:title", content: "INCITERZ — Winning Political Campaigns" },
+      { property: "og:title", content: "INCITERZ - Winning Political Campaigns" },
       {
         property: "og:description",
         content:
