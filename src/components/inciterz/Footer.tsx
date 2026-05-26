@@ -28,7 +28,7 @@ export function Footer() {
               <span className="font-display text-lg font-bold tracking-tight">INCITERZ</span>
             </Link>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
-              A modern political consulting and campaign management firm — strategy,
+              A modern political consulting and campaign management firm - strategy,
               intelligence and execution under one roof.
             </p>
             <div className="mt-6 flex flex-wrap gap-2.5">

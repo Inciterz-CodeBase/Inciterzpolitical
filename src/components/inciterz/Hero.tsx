@@ -43,7 +43,7 @@ export function Hero() {
           className="mx-auto mt-6 max-w-2xl text-base text-muted-foreground md:text-lg animate-fade-up"
           style={{ animationDelay: "150ms" }}
         >
-          We consult, curate, and communicate data-driven political success —
+          We consult, curate, and communicate data-driven political success -
           from booth-level intelligence to a 24×7 war room that keeps your
           campaign moving forward.
         </p>

@@ -10,7 +10,7 @@ export const Route = createFileRoute("/contact")({
   component: ContactPage,
   head: () => ({
     meta: [
-      { title: "Contact INCITERZ — Talk to Our Strategists" },
+      { title: "Contact INCITERZ - Talk to Our Strategists" },
       {
         name: "description",
         content:
@@ -212,7 +212,7 @@ function ContactPage() {
                   <div className="flex items-center gap-2 text-royal-glow">
                     <MapPin size={16} />
                     <span className="text-xs font-semibold uppercase tracking-wider">
-                      Our Office — India
+                      Our Office - India
                     </span>
                   </div>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">

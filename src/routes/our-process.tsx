@@ -11,9 +11,9 @@ export const Route = createFileRoute("/our-process")({
   component: OurProcessPage,
   head: () => ({
     meta: [
-      { title: "Our Process — INCITERZ" },
+      { title: "Our Process - INCITERZ" },
       { name: "description", content: "Our pillars, campaign process, war room operations and measurable impact." },
-      { property: "og:title", content: "Our Process — INCITERZ" },
+      { property: "og:title", content: "Our Process - INCITERZ" },
       { property: "og:description", content: "How INCITERZ wins campaigns: pillars, process, war room and impact." },
     ],
   }),

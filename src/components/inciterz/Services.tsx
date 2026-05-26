@@ -75,7 +75,7 @@ const categories: Category[] = [
     title: "PR, Media & Communication",
     tagline: "How leaders are built and protected.",
     items: [
-      { title: "Media Management", desc: "Print, TV, digital — coordinated and on-message." },
+      { title: "Media Management", desc: "Print, TV, digital - coordinated and on-message." },
       { title: "Speech & Messaging Strategy", desc: "Words that move rooms and move votes." },
       { title: "Reputation Building", desc: "A long-arc image strategy for the candidate." },
       { title: "Crisis Handling", desc: "Calm command when stories break." },

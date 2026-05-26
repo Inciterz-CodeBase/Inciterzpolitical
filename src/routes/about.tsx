@@ -13,7 +13,7 @@ export const Route = createFileRoute("/about")({
   component: AboutPage,
   head: () => ({
     meta: [
-      { title: "About Us — INCITERZ" },
+      { title: "About Us - INCITERZ" },
       { name: "description", content: "Inciterz builds digital products and meaningful experiences that drive growth, engagement and measurable business results." },
       { property: "og:title", content: "About INCITERZ" },
       { property: "og:description", content: "Full-service IT, digital marketing and political campaign management." },
@@ -127,7 +127,7 @@ function AboutPage() {
               </p>
               <p>
                 Inciterz is a team of developers, designers, marketers, and strategists committed to
-                delivering high-quality solutions. We believe every business is unique — that is why we
+                delivering high-quality solutions. We believe every business is unique - that is why we
                 follow a personalized and result-driven approach for every project we take on.
               </p>
               <p>

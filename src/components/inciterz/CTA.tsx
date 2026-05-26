@@ -18,7 +18,7 @@ export function CTA() {
               Ready to <span className="text-gradient">Win Your Campaign?</span>
             </h2>
             <p className="mx-auto mt-5 max-w-xl text-sm sm:text-base text-muted-foreground">
-              Book a confidential strategy call with our senior consultants — or
+              Book a confidential strategy call with our senior consultants - or
               download the INCITERZ playbook to see how we operate.
             </p>
 

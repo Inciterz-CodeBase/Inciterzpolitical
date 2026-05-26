@@ -72,14 +72,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "INCITERZ — Consult | Curate | Communicate" },
+      { title: "INCITERZ - Consult | Curate | Communicate" },
       {
         name: "description",
         content:
           "INCITERZ is a modern political consulting and campaign management firm. Data-driven strategy, war room analytics, ground operations and digital outreach.",
       },
       { name: "author", content: "INCITERZ" },
-      { property: "og:title", content: "INCITERZ — Consult | Curate | Communicate" },
+      { property: "og:title", content: "INCITERZ - Consult | Curate | Communicate" },
       {
         property: "og:description",
         content:

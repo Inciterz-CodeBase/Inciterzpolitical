@@ -96,7 +96,7 @@
 :root {
   --radius: 0.75rem;
 
-  /* Light theme — Inciterz blue & white */
+  /* Light theme - Inciterz blue & white */
   --background: oklch(1 0 0);                  /* pure white */
   --foreground: oklch(0.18 0.06 265);          /* deep navy ink */
 
@@ -124,7 +124,7 @@
   --input: oklch(0.42 0.25 265 / 18%);
   --ring: oklch(0.42 0.25 265 / 60%);
 
-  /* Brand palette — all variants of logo blue + white */
+  /* Brand palette - all variants of logo blue + white */
   --royal: oklch(0.42 0.25 265);               /* logo blue */
   --royal-glow: oklch(0.62 0.22 262);          /* lighter blue */
   --gold: oklch(0.42 0.25 265);                /* alias to blue (no extra colors) */

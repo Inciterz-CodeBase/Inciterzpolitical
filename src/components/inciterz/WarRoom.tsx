@@ -18,7 +18,7 @@ export function WarRoom() {
               The War Room
             </p>
             <h2 className="mt-4 font-display text-2xl font-bold sm:text-3xl md:text-5xl">
-              A command center built for election day — and every day before it
+              A command center built for election day - and every day before it
             </h2>
             <p className="mt-5 text-sm sm:text-base text-muted-foreground">
               Live booth dashboards, sentiment streams, opposition trackers and
@@ -101,7 +101,7 @@ export function WarRoom() {
                 </div>
               </div>
 
-              {/* alert ticker — the parent's `overflow-hidden` requires this
+              {/* alert ticker - the parent's `overflow-hidden` requires this
                   block to be allowed to shrink (min-w-0), otherwise the
                   whitespace-nowrap inside forces it to expand past the panel. */}
               <div className="mt-4 sm:mt-5 w-full min-w-0 overflow-hidden rounded-xl border border-border/60 bg-card/60">
@@ -109,8 +109,8 @@ export function WarRoom() {
                   {Array.from({ length: 2 }).map((_, k) => (
                     <div key={k} className="flex shrink-0 gap-6 sm:gap-8 px-4 sm:px-6">
                       <span>● Booth 412 turnout +18%</span>
-                      <span>● Opposition rally — Sector 9</span>
-                      <span>● Volunteer surge — Ward 14</span>
+                      <span>● Opposition rally - Sector 9</span>
+                      <span>● Volunteer surge - Ward 14</span>
                       <span>● Reel #082 trending locally</span>
                       <span>● WhatsApp sends: 2.4M today</span>
                     </div>

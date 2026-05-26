@@ -32,7 +32,7 @@ export function Process() {
             Campaign Journey
           </p>
           <h2 className="mt-4 font-display text-2xl font-bold sm:text-3xl md:text-5xl">
-            From data to victory — a four-phase playbook
+            From data to victory - a four-phase playbook
           </h2>
         </Reveal>
 
