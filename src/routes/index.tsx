@@ -14,7 +14,7 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "INCITERZ is a Smart Strategies for Winning Political Campaigns" },
+      { title: "INCITERZ - Smart Strategies for Winning Political Campaigns" },
       {
         name: "description",
         content:
